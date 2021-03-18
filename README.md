@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+-I'm university student
+-I am into guitar
+
 <!--
 **TEN3T/TEN3T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
