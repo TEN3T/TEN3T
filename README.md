@@ -1,4 +1,4 @@
-## ⛏️Skills⛏️
+## ⛏️Skills
 <div>
   <h3>Languages</h3>
   <a target="_blank"><img src="https://img.shields.io/badge/C-234374?style=flat&logo=C&logoColor=608BC2"/></a>
@@ -27,7 +27,10 @@
   <a target="_blank"><img src="https://img.shields.io/badge/AWS-252F3E?style=for-the-badge&logo=Amazon AWS&logoColor=FF9900"/></a>
 </div>
 
-## 📱Contact📱
+## Summary
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ten3t&show_icons=true&theme=radical)
+
+## 📱Contact
 <div>
   <a href="mailto:esther78944@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4235?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/blog-03E463?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
