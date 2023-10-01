@@ -30,5 +30,5 @@
 ## 📱Contact
 <div>
   <a href="mailto:esther78944@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4235?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
-  <a target="https://blog.naver.com/esther78944"><img src="https://img.shields.io/badge/blog-03E463?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
+  <a href="https://blog.naver.com/esther78944" target="_blank"><img src="https://img.shields.io/badge/blog-03E463?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
 </div>
