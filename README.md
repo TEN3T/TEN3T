@@ -27,5 +27,5 @@
 <div>
   <a href="mailto:esther78944@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4235?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
   <a href="https://blog.naver.com/esther78944" target="_blank"><img src="https://img.shields.io/badge/blog-03E463?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
-  <a href="https://ten3t.github.io/" target="_blank"><img src="&https://img.shields.io/badge/blog-03E463?style=flat-square&logo=githubpages&logoColor=FFFFFF"/></a>
+  <a href="https://ten3t.github.io/" target="_blank"><img src="&https://img.shields.io/badge/blog-03E463?style=flat-square&logo=GitHub Pages&logoColor=FFFFFF"/></a>
 </div>
